@@ -1,9 +1,8 @@
-# Universal Website Builder + Shifa Demo
+# Universal Website Builder v0.2
+Static GitHub Pages prototype.
 
-This is a fast, static proof-of-concept.
+This version has 8 genuinely different design systems and maps business nature to themes: saddlery, leather, manufacturing/OEM, technology/AI, furniture, restaurant, fashion and professional services. The Shifa demo contains 8 distinct directions. The builder dynamically changes the recommended theme set when the business type changes.
 
-- `shifa-demo/` contains a selector plus 5 Shifa Enterprises visual concepts.
-- `builder-demo/` contains a static Universal Website Builder UI with live style switching.
-- It can be published on GitHub Pages because it uses only HTML/CSS/JavaScript.
+The visual direction is based on current B2B/manufacturing patterns such as capability-first messaging, product discovery, proof, RFQ pathways, interactive showroom ideas and restrained AI/motion concepts. It is an original implementation, not a copy of a third-party website.
 
-Important: GitHub Pages is static hosting, so this prototype does not run a Node/Express API or server-side database. The real CMS/API comes later when the concept is approved and a suitable runtime is available.
+GitHub Pages can host this static prototype. A real dynamic CMS/API/database comes later when the concept is approved and suitable runtime hosting is available.
